@@ -1,4 +1,4 @@
-Click [https://threadz-henna.vercel.app/](here) to view the project.
+Click [here](https://threadz-henna.vercel.app/) to view the project.
 
 ## 🤖 Introduction
 
